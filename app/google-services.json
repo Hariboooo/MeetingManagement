@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727924533628",
+    "firebase_url": "https://meetingmanagement-94624.firebaseio.com",
+    "project_id": "meetingmanagement-94624",
+    "storage_bucket": "meetingmanagement-94624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727924533628:android:f81339698eebde0475dcf9",
+        "android_client_info": {
+          "package_name": "com.manaka.meetingmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727924533628-6s1317gr5vto5prakduorknn2liv2gli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manaka.meetingmanagement",
+            "certificate_hash": "7fed6b1d64c18b50911e18b0773e39ad20b317ac"
+          }
+        },
+        {
+          "client_id": "727924533628-30cl2fhuqnvg1vrvuseelbirglsn8b6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCOD5-IevGsdhaLTfwGTEFEPUyDiSD2Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727924533628-30cl2fhuqnvg1vrvuseelbirglsn8b6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

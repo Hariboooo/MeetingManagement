@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <Spinner
+        android:id="@+id/spinnerEvent"
+        android:layout_marginTop="20px"
+        android:layout_marginBottom="20px"
+        android:layout_marginLeft="20px"
+        android:layout_marginRight="20px"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:entries="@array/event_type_arrays"
+        android:prompt="@string/event_prompt" />
+
+    <Spinner
+        android:id="@+id/spinnerPlace"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20px"
+        android:layout_marginBottom="20px"
+        android:layout_marginLeft="20px"
+        android:layout_marginRight="20px"
+        android:layout_height="60dp"
+        android:entries="@array/place_arrays"
+        android:prompt="@string/place_prompt" />
+
+
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_marginTop="20px"
+        android:layout_marginBottom="20px"
+        android:layout_marginLeft="20px"
+        android:layout_marginRight="20px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit" />
+</LinearLayout>
+
+</LinearLayout>

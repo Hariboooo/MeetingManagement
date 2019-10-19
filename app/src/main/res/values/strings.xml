@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MeetingManagement</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_sign_in">Verify and Sign In</string>
+    <string name="sign_out">sign out</string>
+    <string name="place_prompt">Choose a Place</string>
+    <string name="event_prompt">Choose an Event</string>
+    <string name="txtEmpty">List is empty</string>
+    <string-array name="event_type_arrays">
+        <item>Birthday Party</item>
+        <item>Conference</item>
+        <item>Family Party</item>
+
+    </string-array>
+
+    <string-array name="place_arrays">
+        <item>Codissia</item>
+        <item>Jenneys club</item>
+        <item>Gcm Ac Conference Halls</item>
+        <item>Mani Mahal</item>
+
+    </string-array>
+</resources>
